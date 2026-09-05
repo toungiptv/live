@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=90000000,RESOLUTION=3840x2160
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1309863.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1314084&extension=m3u8
